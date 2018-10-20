@@ -1,9 +1,16 @@
-# EM
+# Expectation Maximisation
+
+Estimating model parameters when faced with hidden variables.
+
+![alt text](https://github.com/ajcr/em-explanation/blob/master/assets/em-red-blue-20-iterations.png)
+
+## Notebooks
+
+These are notebooks explaining the intuition behind the **Expectation Maximisation** algorithm:
 
 - [em-notebook-1](https://github.com/ajcr/em-explanation/blob/master/em-notebook-1.ipynb) - given sequences of coin flips from two coins, *but not knowing which coin generated which sequence*, compute each coin's bias towards heads.
 - [em-notebook-2](https://github.com/ajcr/em-explanation/blob/master/em-notebook-2.ipynb) - given two equal-size groups of data points drawn from two normal distributions, *but not knowing which point came from which group*, compute the mean and standard deviation of the distributions.
 
-These are notebooks explaining the intuition behind the **Expectation Maximisation** algorithm.
 
 Expectation Maximisation (EM) is often used to find estimates for model parameters when some variables or data points are not observable. It is an iterative method which allows estimates for a model paramter to be update and ultimately converge to a local (not necessarily global) maximum liklihood value. It is used extensively in finance, bioinformatics and other diciplines, where the central ideas behind the algorithm appear under different guises.
 
@@ -11,7 +18,7 @@ These notebooks are hopefully a source of simple explanations and easy-to-unders
 
 ---
 
-# Resources
+## Other Resources
 
 You may find some of the following resources useful if you want to read more about EM:
 
@@ -22,7 +29,7 @@ You may find some of the following resources useful if you want to read more abo
 
 ---
 
-# Future
+## Future
 
 I hope to extend the notebooks to show how other model parameters can be estimated using EM.
 
