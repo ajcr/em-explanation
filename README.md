@@ -24,7 +24,7 @@ You may find some of the following resources useful if you want to read more abo
 
 - em-notebook-1 is based on the article [What is the expectation maximization algorithm?](https://www.nature.com/nbt/journal/v26/n8/pdf/nbt1406.pdf) by Do & Batzoglou. This paper has been reinterpreted in various blog posts and Q&A sites. One nice presentation is by Karl Rosaen [here](http://karlrosaen.com/ml/notebooks/em-coin-flips/).
 - em-notebook-2 was created after watching some of the lecture series by Victor Lavrenko [https://www.youtube.com/watch?v=iQoXFmbXRJA](https://www.youtube.com/watch?v=iQoXFmbXRJA).
-- [The Expectation Maximization Algorithm: A short tutorial](https://www.cs.utah.edu/~piyush/teaching/EM_algorithm.pdf) by Sean Borman fills in a lot the mathematical details around convergence.
+- [The Expectation Maximization Algorithm: A short tutorial](https://www.cs.utah.edu/~piyush/teaching/EM_algorithm.pdf) by Sean Borman fills in a lot of the mathematical details around convergence.
 - [Wikipedia](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm) has some good, if technical, content summarising EM. A nice GIF of converging parameters, too.
 
 ---
