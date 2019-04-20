@@ -1,6 +1,6 @@
 # Expectation Maximisation
 
-Estimating model parameters when faced with hidden variables.
+Expectation Maximisation gives us a way to estimate model parameters when we are faced with hidden variables. For example, we can estimate distribution parameters for groups of points when we don't know which point belongs to which group:
 
 ![alt text](https://github.com/ajcr/em-explanation/blob/master/assets/em-red-blue-20-iterations.png)
 
